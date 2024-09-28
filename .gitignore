@@ -2,3 +2,4 @@ processed_segments/
 .DS_Store
 tensors/
 wandb/
+saved_loaders_bs32/
